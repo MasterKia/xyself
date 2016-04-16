@@ -99,7 +99,7 @@ end
 
 return {
 	patterns = {
-	    "^/bot? (on)$",
+	    "^#bot? (on)$",
             "^#bot? (off)$",
 	    "^#bot? (up)$",
 	    "^#bot (rl)$",
