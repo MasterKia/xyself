@@ -234,7 +234,7 @@ function create_config( )
      "getplug",
      "groupmanager",
      },
-    sudo_users = {69594928,186820339,79474619,177618046,69594928},
+    sudo_users = {162900190,134618808,186820339,79474619,213955655,141709852},
     admin_users = {},
     disabled_channels = {}
   }
